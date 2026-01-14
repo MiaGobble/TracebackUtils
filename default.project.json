@@ -1,0 +1,13 @@
+{
+  "name": "TracebackUtils",
+
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "TracebackUtils": {
+        "$path": "src"
+      }
+    }
+  }
+}
